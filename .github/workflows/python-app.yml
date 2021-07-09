@@ -21,7 +21,7 @@ jobs:
       with:
          # Discord webhook
         webhook_id: '819064230480576573'
-        webhook_token: ${{ODE5MDY0MjMwNDgwNTc2NTcz.YEhLAg.mOfRbuXWZHHbDoremOArWLF7JRA}}
+        webhook_token: 'ODE5MDY0MjMwNDgwNTc2NTcz.YEhLAg.mOfRbuXWZHHbDoremOArWLF7JRA'
 
         # Optional arguments for PR-related events
         # Note: There's no harm in including these lines for non-PR
