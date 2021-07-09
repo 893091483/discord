@@ -20,8 +20,8 @@ jobs:
       uses: actions/setup-python@v2
       with:
          # Discord webhook
-        webhook_id: 'https://discord.com/api/webhooks/863061957597593640/o4Ck0E8SBBosV63OsSr8ZxnmId4o9tChWyMWH3r5rNe9sOZ4-mRdbNyXvcTjGKOdgztZ'  # Has to be provided as a string
-        webhook_token: 'ODE5MDY0MjMwNDgwNTc2NTcz.YEhLAg.mOfRbuXWZHHbDoremOArWLF7JRA'
+        webhook_id: '819064230480576573'
+        webhook_token: ${{ secrets.webhook_token }}
 
         # Optional arguments for PR-related events
         # Note: There's no harm in including these lines for non-PR
