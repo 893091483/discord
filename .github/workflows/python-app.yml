@@ -15,7 +15,7 @@ jobs:
     name: Send an embed to Discord
 
     steps:
-     - name: Run the GitHub Actions Status Embed Action
+    - name: Run the GitHub Actions Status Embed Action
       uses: SebastiaanZ/github-status-embed-for-discord@main
       with:
          # Discord webhook
