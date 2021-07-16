@@ -19,8 +19,8 @@ jobs:
       uses: SebastiaanZ/github-status-embed-for-discord@main
       with:
          # Discord webhook
-        webhook_id: '819064230480576573'
-        webhook_token: 'ODE5MDY0MjMwNDgwNTc2NTcz.YEhLAg.mOfRbuXWZHHbDoremOArWLF7JRA'
+        webhook_id: '865613994436722718'
+        webhook_token: 'wKcG8gLQSN234WxJbzVJOmFDaqjOLlpoORrF3laGByOAkYBnuOdwWP3uXfy2ZjnqOH3I'
         status: 'succes'
 
         # Optional arguments for PR-related events
