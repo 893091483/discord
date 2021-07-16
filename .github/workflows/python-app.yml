@@ -15,9 +15,8 @@ jobs:
     name: Send an embed to Discord
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Set up Python 3.9
-      uses: actions/setup-python@v2
+     - name: Run the GitHub Actions Status Embed Action
+      uses: SebastiaanZ/github-status-embed-for-discord@main
       with:
          # Discord webhook
         webhook_id: '819064230480576573'
