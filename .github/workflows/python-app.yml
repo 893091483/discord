@@ -21,7 +21,7 @@ jobs:
          # Discord webhook
         webhook_id: '865613994436722718'
         webhook_token: 'wKcG8gLQSN234WxJbzVJOmFDaqjOLlpoORrF3laGByOAkYBnuOdwWP3uXfy2ZjnqOH3I'
-        
+        status: 'success'
 
         # Optional arguments for PR-related events
         # Note: There's no harm in including these lines for non-PR
